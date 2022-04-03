@@ -1,1 +1,1 @@
-# Python_Labs
+# All Python labs i made in college
