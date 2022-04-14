@@ -1,3 +1,4 @@
 {
-    "workbench.colorTheme": "Gruvbox Glass"
+    "workbench.colorTheme": "Gruvbox Glass",
+    "themeRandomizer.enabled": false
 }
