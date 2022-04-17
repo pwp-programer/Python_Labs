@@ -1,4 +1,3 @@
 {
-    "workbench.colorTheme": "Gruvbox Glass",
-    "themeRandomizer.enabled": false
+    "python.formatting.provider": "black"
 }
