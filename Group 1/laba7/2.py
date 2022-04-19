@@ -23,7 +23,7 @@ x3 = set(x3)
 
 
 # Создание мегамножества
-print(x1 + "\n")
+print(x1, "\n")
 y = set((x1 & x2) | (x1 | x3))
 print(y)
 
