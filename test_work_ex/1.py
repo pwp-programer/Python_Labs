@@ -1,4 +1,5 @@
 mark_list = []
+
 plus_mark, minus_mark = 0, 0
 for i in range(5):
     try:
