@@ -12,6 +12,6 @@ for i in range(10):
         print(a, end="")
 
 d = len(mark_arrays)
-print(f"Средний бал по классу: {s / d}")
+print(f"Средний балл по классу: {s / d}")
 
 f.close()

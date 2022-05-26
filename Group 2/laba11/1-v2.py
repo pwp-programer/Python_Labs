@@ -14,7 +14,7 @@ class Pasport:
         print("Объект удален:") 
 Use=Pasport("Данила Чикатило","2342342ddfsdf","1234567") 
 Use.return_shoy() 
-Use.FIO="FJINJE" 
+Use.FIO="Войтович" 
 Use.Sir="123" 
 Use.Num="56478392" 
 Use.return_shoy()
