@@ -60,21 +60,21 @@ def secondary(path_save_zrya, path_pic_one):
     draw = ImageDraw.Draw(img)
     
     font = ImageFont.truetype(font="C:\\Users\\pwp\Documents\\custom\\CascadiaCode\\Caskaydia Cove Nerd Font Complete Mono Windows Compatible.ttf",size=20)
-    draw.text((10, 10), "Oh",font=font)
-    img.show()
+    draw.text((10, 10), "Menya zvat ",font=font)
+    # img.show()
     
     
-    draw.text((45, 10), "zrya",font=font)
-    img.show()
+    # draw.text((45, 10), "",font=font)
+    # img.show()
     
     
-    draw.text((10, 50), "ya",font=font)
-    img.show()
+    draw.text((10, 50), "Vldaii ya",font=font)
+    # img.show()
     
-    draw.text((45, 50), "tuda",font=font)
-    img.show()
+    # draw.text((45, 50), "",font=font)
+    # img.show()
     
-    draw.text((10, 95), "polez...",font=font)
+    draw.text((10, 95), "cumputarshik",font=font)
     img.show()
     img.save(path_save_zrya)
 

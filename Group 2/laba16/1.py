@@ -31,6 +31,6 @@ def get_number():
     b = input('Введите число B: ')
     print([a, b])
     return [a, b]
-
+    
 
 get_number()
