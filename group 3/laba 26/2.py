@@ -5,7 +5,7 @@ n = int(input("Введите размер матрицы: "))
 
 matrix = np.array([[randint(0, 9) for _ in range(n)] for _ in range(n)])
 
-for row in matrix:
+for row in matrix:s
     print(row)
 
 for i in range(n):

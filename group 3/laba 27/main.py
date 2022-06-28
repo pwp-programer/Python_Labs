@@ -1,0 +1,16 @@
+from func import *
+
+# first()
+# s=secondary()
+# third(s)
+# fourth(s)
+# fives(s)
+# sixth(s)
+# seventh()
+# eight(s)
+# ninth(s)
+# n = tens()
+# eleventh(n)
+# f1 = twelfth()
+# f2 = thirteenth()
+# fourteenth(f1, f2)
